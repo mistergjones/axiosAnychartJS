@@ -1,0 +1,14 @@
+.chart-container {
+    width: 30%;
+    text-align: center;
+    position: relative;
+    /* height: 40vh;
+    width: 40vw; */
+}
+
+#container {
+    width: 50%;
+    height: 400%;
+    margin: 0;
+    padding: 0;
+}
